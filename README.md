@@ -76,10 +76,10 @@ Here are some ideas to get you started:
 </p>
 
  <p align="center">
-  <a href="https://github.com/aalhabib001">
+  <a href="https://github.com/ihsonnet">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=ihsonnet&show_icons=true&count_private=true">
   </a>
-  <a href="https://github.com/aalhabib001">
+  <a href="https://github.com/ihsonnet">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ihsonnet&layout=compact&langs_count=6" />
   </a>
  </p>
