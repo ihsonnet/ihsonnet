@@ -92,8 +92,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
-> -- Steve Jobs
+> I don't care who is doing better than me. I am doing better then I was last year. <br>
+> -- Elon Mask
 
 
 
