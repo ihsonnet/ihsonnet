@@ -92,8 +92,10 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-> I don't care who is doing better than me. I am doing better then I was last year. <br>
-> -- Elon Mask
+<!-- > I don't care who is doing better than me. I am doing better then I was last year. <br>
+> -- Elon Mask -->
+> Being a better version of me by every moments means success to me. <br>
+> -- ihsonnet
 
 
 
