@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  -->
  
  
- ![I am Software Developer](https://raw.githubusercontent.com/ihsonnet/ihsonnet/main/Screenshot%20from%202021-08-27%2001-11-00.png)
+
 ## A passionate Software Engineer 🚀 
 <p>
 🖊️ Love to write code <br> 
